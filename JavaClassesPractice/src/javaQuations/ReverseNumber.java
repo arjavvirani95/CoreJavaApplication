@@ -4,7 +4,7 @@ public class ReverseNumber {
 
 	public static void main(String[] args) {
 
-		int num = 159870036;	//321
+		int num = 1234;	//4321
 		int rev = 0;
 		
 		while(num != 0) {
