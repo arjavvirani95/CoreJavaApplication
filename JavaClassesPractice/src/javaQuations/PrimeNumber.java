@@ -4,8 +4,9 @@ public class PrimeNumber {
 
 	public static void main(String[] args) {
 		//prime num is division by him self and 1; 1,13
-		int num = 9;
+		int num = 127;
 		boolean flag = false;
+		
 		for(int i=2; i<=num/2; i++) {
 			if(num % i == 0) {
 				flag = true;

@@ -7,7 +7,7 @@ public class NumberofDigitfromString {
 		//12345 -- 5
 		//123 -- 3
 		
-		int num = 1;
+		int num = 1234;
 		int count = 0;
 		
 		while(num != 0) {

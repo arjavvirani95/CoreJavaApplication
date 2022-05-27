@@ -4,7 +4,7 @@ public class PostiveOrNegative {
 
 	public static void main(String[] args) {
 
-		double number = 0;
+		double number = 55;
 		
 		if(number < 0.0) {
 			System.out.println(number +" is nagative number");
