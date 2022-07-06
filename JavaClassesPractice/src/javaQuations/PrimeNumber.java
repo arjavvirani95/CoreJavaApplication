@@ -18,6 +18,11 @@ public class PrimeNumber {
 		}else {
 			System.out.println(num +" is not a prime number");
 		}
+		
+		//print length of string without using length method
+		String str = "pankaj";
+		System.out.println(str.toCharArray().length);
+		System.out.println(str.lastIndexOf(""));
 	}
 
 }
